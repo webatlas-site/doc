@@ -1,1 +1,3 @@
-Rails app generated with CristianCristea starter.
+# Doc app
+
+## Central repo for webatlas.site
